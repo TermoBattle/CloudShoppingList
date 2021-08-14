@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CloudShoppingList</string>
+    <string name="account_screen">Аккаунт</string>
+    <string name="login">Логин</string>
+    <string name="email">Email</string>
+    <string name="sign_out">Выйти</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="password">Пароль</string>
+    <string name="userData_not_found">Данных нет</string>
+    <string name="email_is_null">"Введите Email "</string>
+    <string name="password_is_null">Введите пароль</string>
+    <string name="sign_in">Войти</string>
+    <string name="toast_invalid_data">Некоррекные email и пароль.</string>
+    <string name="toast_null_email">Введите email</string>
+    <string name="toast_null_password">Введите пароль</string>
+</resources>
